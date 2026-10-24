@@ -6,4 +6,5 @@ Estou aprendendo Linux, Git e Github.
 - Comando Linux 
 - Git e Github 
 - Programação 
-lallalalalllaaa
+
+#Estou aprendendo a usar Git sem desistir!
